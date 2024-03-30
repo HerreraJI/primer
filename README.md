@@ -1,5 +1,5 @@
 # este es un archivo de prueba
-Estoy tratando de aprender a usar:
+Estoy tratando de aprender a usar: 
 *git
 *gitHub
 
